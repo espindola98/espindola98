@@ -20,6 +20,19 @@ Here are programming languages or tools I frequently used:
     width="42"
     alt="python logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  
+  />
+  <img
+    height="30"
+    width="42"
+    alt="postgresql logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    />
+<img
+    height="30"
+    width="42"
+    alt="vscode logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+  />
+
 </div>
 
